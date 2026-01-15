@@ -13,10 +13,10 @@ body {
 /* HERO */
 .hero {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-                url("images/hero-snacks.jpg");
+                url("images/hero-snacks.png");
     background-size: cover;
     background-position: center;
-    height: 60vh;
+    max-height: fit-content;
     color: white;
 }
 
