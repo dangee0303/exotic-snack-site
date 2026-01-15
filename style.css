@@ -16,7 +16,7 @@ body {
                 url("images/hero-snacks.jpg");
     background-size: cover;
     background-position: center;
-    height: 90vh;
+    height: 60vh;
     color: white;
 }
 
@@ -53,6 +53,7 @@ body {
 }
 
 .hero-text h2 {
+
     margin-top: 15px;
     font-size: 48px;
     margin-bottom: 5px;
